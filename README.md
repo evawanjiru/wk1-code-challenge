@@ -17,9 +17,7 @@ console.log(gradeGenerator(55)); // Output: C
 console.log(gradeGenerator(40)); // Output: D
 console.log(gradeGenerator(15)); // Output: E
 console.log(gradeGenerator(300)); // Output: "Invalid score. Please enter a number between 0 and 100"
-
-
-
+```
 
 
 # Speed Detection Function
